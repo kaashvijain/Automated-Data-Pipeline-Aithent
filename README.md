@@ -1,5 +1,5 @@
 # Automated Data Pipeline
-Automated Data Pipeline was a project I developed and worked on during my time in Aithent Inc. This project implements an end-to-end automated workflow for student data management. It streamlines database operations, data export to CSV, email notifications, and analytics chart generation using Oracle, Java, and Python. 
+Automated Data Pipeline was a project I developed and worked on during my time in Aithent Inc. This project implements an end-to-end automated workflow for data management. It streamlines database operations, data export to CSV, email notifications, and analytics chart generation using Oracle, Java, and Python. 
 
 ## Features 
 - Automatic student ID generation using Oracle sequences and triggers
