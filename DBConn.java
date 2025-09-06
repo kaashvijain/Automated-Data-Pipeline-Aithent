@@ -13,7 +13,6 @@ public class DBConn {
         Class.forName("oracle.jdbc.driver.OracleDriver");
         return DriverManager.getConnection(jdbcUrl, username, password);
     }
-    @SuppressWarnings("CallToPrintStackTrace")
     public static void main(String[] args) {
 
         Connection conn = null;
@@ -38,5 +37,6 @@ public class DBConn {
         }
     }
 }
+
 
 
