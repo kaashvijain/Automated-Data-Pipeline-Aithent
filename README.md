@@ -13,6 +13,9 @@ This project implements an end-to-end automated workflow for student data manage
 - Java (JDBC, JavaMail API)
 - Python (pandas, openpyxl, matplotlib)
 
+## Workflow 
+![WhatsApp Image 2025-09-06 at 20 56 50_4e972086](https://github.com/user-attachments/assets/29d97391-e3de-431f-b5ed-66341373d4c2)
+
 ## Future Enhancements 
 - Schedule exports and email via cron jobs
 - Integrate a lightweight UI for end-users
