@@ -14,7 +14,7 @@ Automated Data Pipeline was a project I developed and worked on during my time i
 - Python (pandas, openpyxl, matplotlib)
 
 ## Workflow 
-![WhatsApp Image 2025-09-06 at 21 08 29_dcb56b4c](https://github.com/user-attachments/assets/d6798c4c-bd5d-4185-a2c7-96d2a87aff67)
+![WhatsApp Image 2025-09-06 at 21 12 22_20d5557b](https://github.com/user-attachments/assets/f3b09887-1144-4b5b-93b3-5727a5a435d0)
 
 ## Future Enhancements 
 - Schedule exports and email via cron jobs
